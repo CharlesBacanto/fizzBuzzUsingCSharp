@@ -8,7 +8,7 @@
 
 
         //For loop to iterate each incrementation from 1 up to max Value
-        for(int i = 1; i < maxValue; i++)
+        for(int i = 1; i <= maxValue; i++)
         {
             if(i%5 == 0 && i%2 == 0)
             {
